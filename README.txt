@@ -5,3 +5,7 @@ and a file to encode into morse code.
 
 Uses a custom map to store and find morse code values.
 
+morsecode.txt is used to create the table.
+
+toencode.txt is an example file with encoded.txt being it's output.
+
